@@ -35,6 +35,14 @@ h1,h2,h3 {
     width: 110px;
 }
 
+.black {
+	color: #000;
+}
+
+.red { 
+	color: red;
+}
+
 .back {
     background-image: url(https://cdn.shopify.com/s/files/1/0200/7616/products/playing-cards-tally-ho-circle-back-1_1024x1024.png?v=1575351986);
     background-size: contain;
